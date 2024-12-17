@@ -1,0 +1,33 @@
+html {
+    background-color: black;
+}
+img.spider-lilly {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    float: left;
+    /*This put the image to the right of the text*/
+    margin-right: 10px;
+    object-fit: cover;
+}
+p {
+    color: white;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+
+p.username {
+    font-weight: bold;
+}
+a.git-tag {
+    color: beige;
+}
+
+em {
+    color: red;
+}
+
+#section-about-me {
+    margin-top: 50px;
+}
