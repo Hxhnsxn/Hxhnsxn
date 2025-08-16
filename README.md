@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hxhnsxn or Jose
 - 💻 I’m interested in Cybersecurity and SWE!
-- ⚙️ I’m currently learning Cmputer Engineering at the Georgia Institute of Technology
+- ⚙️ I’m currently studying Computer Engineering at the Georgia Institute of Technology
 - 🤝 I’m looking to collaborate on projects in the fields of my personal intrest
 - 📫 How to reach me: jj9917384@gmail.com
 - 😄 Pronouns: He/Him/His
